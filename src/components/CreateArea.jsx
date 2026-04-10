@@ -6,7 +6,6 @@ function CreateArea(props) {
     content: "",
   });
   const { title, content } = cardData;
-  const setTitle = (event) => {};
   return (
     <div>
       <form>
